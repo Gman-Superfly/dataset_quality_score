@@ -1,6 +1,6 @@
 # Dataset Quality Scorer
 
-A configurable system for evaluating dataset quality using sublinear scoring functions, designed for reinforcement learning-driven dataset generation.
+A configurable system for evaluating simple dataset quality using sublinear scoring functions, designed for reinforcement learning-driven dataset generation.
 
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
@@ -328,9 +328,9 @@ Recent enhancements include:
 
 ## Contributing
 
-Contributions are welcome. Please follow the established coding standards:
+No just make your own this is a fun test example for my own use, if you really want to follow these guidelines
 
-1. **Comprehensive validation** - Validate all inputs and assumptions
+1. **Vvalidation** - Validate all inputs and assumptions
 2. **Type annotations** - Use complete type hints
 3. **Focused functions** - Maintain single responsibility principle
 4. **Error handling** - Implement graceful failure modes
@@ -341,16 +341,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Citation
 
-If you use this work in your research, please cite:
-
-```bibtex
-@software{dataset_quality_scorer,
-  title={Dataset Quality Scorer: Sublinear Monotonicity for RL-Driven Dataset Generation},
-  author={Oscar Goldman},
-  year={2025},
-  url={https://github.com/your-repo/dataset_quality_score}
-}
-```
+LMAO
 
 ## Contact
 
@@ -359,4 +350,4 @@ If you use this work in your research, please cite:
 
 ---
 
-*This system provides a systematic approach to dataset quality evaluation. Users should validate the scoring behavior on their specific domains and adjust weights accordingly.*
+*This system provides a systematic approach to simple dataset quality evaluation. Users should validate the scoring behavior on their specific domains and adjust weights accordingly.*
